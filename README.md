@@ -21,7 +21,7 @@ Beer recommendation system
    * param num_b: number of beers per beer style to recommend
    * return: final recommended beer name with beer style and brewery name
 4. predict_rating
-   * 
+   * predict rate
 5. get_mse
    * evaluation MSE only for the beers rated by the user
 6. get_rmse
