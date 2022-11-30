@@ -1,6 +1,9 @@
 # Machine_Learning_Team7
 Beer recommendation system
 
+## Dataset
+* https://www.kaggle.com/datasets/rdoume/beerreviews
+
 ### Function
 
 1. sort_best_beer_order
